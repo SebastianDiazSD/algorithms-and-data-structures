@@ -14,7 +14,7 @@ I use this space to organize and track my learning progress in foundational topi
 | Week | Topics                                                                                                  | Folder     |
 |------|---------------------------------------------------------------------------------------------------------|-------------------|
 | 1    | Introduction to Algorithms, problem solving, and writing your first program                             | [Week 1](Week_1/) |
-| 2    | Introduction to Data Structures, Search and Programming Control-flow Structures                         | [Week 2](week02/) |
+| 2    | Introduction to Data Structures, Search and Programming Control-flow Structures                         | [Week 2](Week_2/) |
 | 3    | Pseudo-code, Asymptotic analysis, Big-O notation and use of function in programming                     | –          |
 | 4    | Basic linear abstract data structures and their implementations using classes and data encapsulation    | –          |
 | 5    | Non-linear Data Structures: Recursion, Trees and their Application to Search Algorithms                 | –          |
